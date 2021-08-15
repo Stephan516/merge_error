@@ -4,6 +4,10 @@ package module01_06;
  */
 public class TestCast {
 
+private string drops;
+private string rain;
+
+
 	public static void main(String[] args) {
 		int i = 1;
 		double d = 11.1;
