@@ -4,8 +4,13 @@ package module01_06;
  */
 public class TestCast {
 
+<<<<<<< HEAD
 private string drops;
 private string rain;
+=======
+private string dog;
+private string cat;
+>>>>>>> game
 
 
 	public static void main(String[] args) {
